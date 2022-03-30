@@ -1,3 +1,2 @@
-#!/bin/bash
-This script prints the path of the current working directory
+#!/bin/bash This script prints current working directory
 
